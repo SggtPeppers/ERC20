@@ -1,6 +1,6 @@
 # ERC20
 
-TokenERC1155.sol
+TokenERC20.sol
 
 This contract allows you to mint ERC20 tokens whit your custom name and tag
 
